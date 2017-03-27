@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-h": "hexe:help",
+    "ctrl-alt-s": "hexe:help-selection"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Hexe Help Selection",
+        "command": "hexe:help-selection"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Hexe",
+      "submenu": [
+        {
+          "label": "Help",
+          "command": "hexe:help"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,11 @@
 {
   "name": "hexe",
   "main": "./lib/hexe",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": ["hexe"],
+  "keywords": [
+    "hexe"
+  ],
   "repository": "https://github.com/jacknbeans/hexe",
   "license": "MIT",
   "engines": {

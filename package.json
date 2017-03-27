@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "repository": "https://github.com/atom/hexe",
+  "repository": "https://github.com/jacknbeans/hexe",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -18,9 +18,7 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
-    "dom-parser": "^0.1.5",
     "marked": "^0.3.6",
-    "rx": "^4.1.0",
     "xml-js": "^1.0.2"
   }
 }

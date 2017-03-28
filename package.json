@@ -2,7 +2,7 @@
   "name": "hexe",
   "main": "./lib/hexe",
   "version": "0.3.0",
-  "description": "A short description of your package",
+  "description": "Auto complete and help documentation for hex engine.",
   "keywords": [
     "hexe"
   ],

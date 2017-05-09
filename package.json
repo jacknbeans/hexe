@@ -19,8 +19,12 @@
     }
   },
   "dependencies": {
+    "atom-package-deps": "^4.6.0",
     "atom-space-pen-views": "^2.2.0",
     "marked": "^0.3.6",
     "xml-js": "^1.0.2"
-  }
+  },
+  "package-deps": [
+    "language-lua"
+  ]
 }

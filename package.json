@@ -1,7 +1,7 @@
 {
   "name": "hexe",
   "main": "./lib/hexe",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "description": "Auto complete and help documentation for hex engine.",
   "keywords": [
     "hexe"

@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.5.3](https://github.com/jacknbeans/hexe/tree/v0.5.3) (2017-05-10)
+[Full Changelog](https://github.com/jacknbeans/hexe/compare/v0.5.2...v0.5.3)
+
+**Closed issues:**
+
+- Uncaught TypeError: Cannot read property 'hasOwnProperty' of null [\#6](https://github.com/jacknbeans/hexe/issues/6)
+
 ## [v0.5.2](https://github.com/jacknbeans/hexe/tree/v0.5.2) (2017-05-10)
 [Full Changelog](https://github.com/jacknbeans/hexe/compare/v0.5.1...v0.5.2)
 

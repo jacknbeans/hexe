@@ -9,6 +9,6 @@ module.exports = {
     title: 'JSON Location',
     description: 'Set to the location of the scriptbinds.json file on your computer.',
     type: 'string',
-    default: getUserHome() + '\\.hexe\\docs'
+    default: 'I:\\Y2016D-Y2-Team04\\Game\\Project\\docs\\scriptbinds\\json'
   }
 }

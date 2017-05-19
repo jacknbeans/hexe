@@ -1,5 +1,8 @@
 # Change Log
 
+## [v0.6.1](https://github.com/jacknbeans/hexe/tree/v0.6.1) (2017-05-19)
+[Full Changelog](https://github.com/jacknbeans/hexe/compare/v0.6.0...v0.6.1)
+
 ## [v0.6.0](https://github.com/jacknbeans/hexe/tree/v0.6.0) (2017-05-19)
 [Full Changelog](https://github.com/jacknbeans/hexe/compare/v0.5.5...v0.6.0)
 

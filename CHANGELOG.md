@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.6.2](https://github.com/jacknbeans/hexe/tree/v0.6.2) (2017-06-01)
+[Full Changelog](https://github.com/jacknbeans/hexe/compare/v0.6.1...v0.6.2)
+
+**Closed issues:**
+
+- Uncaught TypeError: v.params\[Symbol.iterator\] is not a function [\#7](https://github.com/jacknbeans/hexe/issues/7)
+
 ## [v0.6.1](https://github.com/jacknbeans/hexe/tree/v0.6.1) (2017-05-19)
 [Full Changelog](https://github.com/jacknbeans/hexe/compare/v0.6.0...v0.6.1)
 
